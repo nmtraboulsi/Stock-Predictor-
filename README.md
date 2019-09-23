@@ -1,1 +1,1 @@
-# Stock-Predictor-
+# Stock-Predictor-Created by Nicole Traboulsi
